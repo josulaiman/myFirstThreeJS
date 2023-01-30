@@ -1,0 +1,6 @@
+/* Set where the canvas should be rendered. */
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
